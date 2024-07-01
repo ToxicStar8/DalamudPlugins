@@ -1,0 +1,26 @@
+[
+    {
+        "Author": "ToxicStar",
+        "Name": "AutoHunt",
+        "InternalName": "AutoHunt",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "用卫月实现自动狩猎，进入全自动狩猎的时代。",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/ToxicStar8/MyDalamudPlugins",
+        "Tags": [
+            "Tools",
+            "Hunt"
+        ],
+        "DalamudApiLevel": 9,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "用卫月实现自动狩猎，进入全自动狩猎的时代。",
+        "Changelog": "1.0.0：初版",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugin/AutoHunt/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugin/AutoHunt/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugin/AutoHunt/latest.zip"
+    }
+]
