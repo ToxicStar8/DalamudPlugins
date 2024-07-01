@@ -11,4 +11,4 @@ https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugin/pluginma
 #### 使用说明：
 1. 安装`Sonar`、`TeleporterPlugin`、`Lifestream`、`Vnavmesh`。
 2. 打开`Sonar`的S怪聊天框`Echo`的提示。
-3. 在三大主城等待出发。
+3. 在三大主城等待出发（主城以外的地方不会响应）。
