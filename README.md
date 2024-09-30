@@ -6,7 +6,9 @@ https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/pluginm
 ```
 
 ## AutoHunt
-使用多方插件，像按键精灵一样按部就班的执行，实现跨服、换图、切线、导航的操作。
+使用多方插件，像按键精灵一样按部就班的执行，实现跨服、换图、切线、导航的操作，以达成自动狩猎的目的。
+
+#### 适配版本：6.58
 
 #### 使用说明：
 1. 安装`Sonar`、`TeleporterPlugin`、`Lifestream`、`Vnavmesh`。
