@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/pluginm
 ```
 
 ## AutoHunt
-使用多方插件，像按键精灵一样按部就班的执行，实现跨服、换图、切线、导航的操作，以达成接近全自动狩猎的目的。
+使用多方插件，像按键精灵一样按部就班的执行，实现跨服、换图、切线、导航的操作，以达成接近全自动狩猎的目的。</br>
 ACT版先用着，卫月版的等我吃完了7S就更新了
 
 #### 适配版本：国服7.0
