@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/pluginm
 ## 目录
 | 名称      | 作者      | 版本 | 适配游戏版本 | 备注 |
 |----------|----------|----------|----------|----------|
-| AutoHunt | [ToxicStar](https://github.com/ToxicStar8)  | 1.3.0.11 | 7.01 | 按部就班的前往目的地（暂不开放）|
+| AutoHunt | [ToxicStar](https://github.com/ToxicStar8)  | 1.3.0.11 | 7.01 | 按部就班的前往S怪出现的地方（暂不开放）|
 | SetActiveAnyRace | [ToxicStar](https://github.com/ToxicStar8)  | 1.0.0.0 | 7.01 | 屏蔽任何你不想看到的种族 |
 
 ## AutoHunt
