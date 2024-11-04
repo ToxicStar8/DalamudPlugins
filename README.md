@@ -20,4 +20,4 @@ https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/pluginm
 4. 切换到队列分页，勾选自动按照队列进行狩猎，即可在任何位置第一时间前往监听到的`S怪`的现场。
 
 ## SetActiveAnyRace
-测试阶段，存在闪退风险与未知问题。
+测试阶段，暂时只能屏蔽大猫，在任何场所（包括副本）。
