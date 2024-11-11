@@ -2,7 +2,7 @@
   "Author": "ToxicStar",
   "Name": "SetActiveAnyRace",
   "InternalName": "SetActiveAnyRace",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.0.2",
   "Description": "屏蔽掉任何你不想看到的种族，不管是谁！",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/ToxicStar8/DalamudPlugins",
