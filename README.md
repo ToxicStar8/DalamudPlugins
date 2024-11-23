@@ -20,5 +20,5 @@ https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/pluginm
 4. 切换到队列分页，勾选自动按照队列进行狩猎，即可在任何位置第一时间前往监听到的`S怪`的现场。
 
 ## SetActiveAnyRace
-屏蔽任何你不想看到的种族性别。
+屏蔽任何你不想看到的种族性别。</br>
 Block any race or gender, if you don't want to see.
