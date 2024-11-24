@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/pluginm
 ## 目录
 | 名称      | 作者      | 版本 | 适配游戏版本 | 备注 |
 |----------|----------|----------|----------|----------|
-| AutoHunt | [ToxicStar](https://github.com/ToxicStar8)  | 1.3.0.17 | 7.05 | 按部就班的前往S怪出现的地方（暂不开放）|
+| AutoHunt | [ToxicStar](https://github.com/ToxicStar8)  | 1.3.1.7 | 7.05 | 按部就班的前往S怪出现的地方|
 | BlockAnyRace | [ToxicStar](https://github.com/ToxicStar8)  | 1.0.0.9 | 7.05 | 屏蔽任何你不想看到的种族性别 |
 
 ## AutoHunt
@@ -20,5 +20,4 @@ https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/pluginm
 4. 切换到队列分页，勾选自动按照队列进行狩猎，即可在任何位置第一时间前往监听到的`S怪`的现场。
 
 ## BlockAnyRace
-屏蔽任何你不想看到的种族性别。</br>
-Block any race or gender, if you don't want to see.
+屏蔽任何你不想看到的种族性别。
