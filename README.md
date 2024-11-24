@@ -21,3 +21,6 @@ https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/pluginm
 
 ## BlockAnyRace
 屏蔽任何你不想看到的种族性别。
+
+## 关于
+[Discord](https://discord.gg/GWMEY9P9BX)
