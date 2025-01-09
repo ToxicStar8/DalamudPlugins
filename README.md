@@ -22,5 +22,14 @@ https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/pluginm
 ## BlockAnyRace
 屏蔽任何你不想看到的种族性别。
 
+##### TODO
+- [ ] 全选/反选/保存预设/读取预设
+- [ ] 可以屏蔽指定玩家
+- [ ] 记录屏蔽名单
+- [ ] 可选只屏蔽名字/模型
+- [ ] 屏蔽聊天信息
+- [ ] 每次遇到屏蔽名单时更新玩家名？
+- [ ] 添加快捷键/指令，便于快速添加屏蔽
+
 ## 关于
 [Discord](https://discord.gg/GWMEY9P9BX)
