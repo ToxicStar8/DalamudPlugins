@@ -24,12 +24,14 @@ https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/pluginm
 
 ##### TODO
 - [ ] 全选/反选/保存预设/读取预设
+- [ ] 在信息栏添加附近屏蔽玩家数
+- [ ] 自定义统计范围
 - [x] 可以屏蔽指定玩家
 - [x] 记录屏蔽名单
-- [ ] 屏蔽聊天信息
-- [ ] 每次遇到屏蔽名单时更新玩家名？
 - [x] 添加快捷菜单，便于快速添加屏蔽
 - [ ] 添加快捷键/指令，便于快速添加屏蔽
+- [ ] 屏蔽聊天信息
+- [ ] 每次遇到屏蔽名单时更新玩家名？
 
 ## 关于
 [Discord](https://discord.gg/GWMEY9P9BX)
