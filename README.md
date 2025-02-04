@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/pluginm
 | 名称      | 作者      | 版本 | 适配游戏版本 | 备注 |
 |----------|----------|----------|----------|----------|
 | AutoHunt | [ToxicStar](https://github.com/ToxicStar8)  | 1.3.2.3 | 7.05 | 按部就班的前往S怪出现的地方|
-| BlockAnyRace | [ToxicStar](https://github.com/ToxicStar8)  | 1.0.1.1 | 7.05 | 屏蔽任何你不想看到的种族性别 |
+| BlockAnyRace | [ToxicStar](https://github.com/ToxicStar8)  | 1.0.1.2 | 7.05 | 屏蔽任何你不想看到的种族性别 |
 
 ## AutoHunt
 使用多方插件，像脚本一样按部就班的执行，实现跨服、换图、切线、导航的操作，以达成接近全自动狩猎的目的。</br>
@@ -24,8 +24,8 @@ https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/pluginm
 
 ##### TODO
 - [ ] 全选/反选/保存预设/读取预设
-- [ ] 在信息栏添加附近屏蔽玩家数
-- [ ] 自定义统计范围
+- [X] 在信息栏添加附近屏蔽玩家数
+- [X] 自定义统计范围
 - [x] 可以屏蔽指定玩家
 - [x] 记录屏蔽名单
 - [x] 添加快捷菜单，便于快速添加屏蔽
