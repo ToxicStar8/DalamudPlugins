@@ -47,5 +47,29 @@
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "AcceptsFeedback": true
+    },
+    {
+        "Author": "ToxicStar",
+        "Name": "PVPBeacon",
+        "InternalName": "PVPBeacon",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "标记一个玩家，在PVP区域高亮他。",
+        "ApplicableVersion": "any",
+        "Tags": [
+          "Tools"
+        ],  
+        "RepoUrl": "https://github.com/ToxicStar8/DalamudPlugins",  
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/PVPBeacon/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/PVPBeacon/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/PVPBeacon/latest.zip",
+        "DalamudApiLevel": 10,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/Logo.png",
+        "Punchline": "标记一个玩家，在PVP区域高亮他。",
+        "Changelog": "",
+        "AcceptsFeedback": true
     }
 ]
