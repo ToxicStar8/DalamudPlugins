@@ -19,7 +19,7 @@
         "LoadPriority": 0,
         "AcceptsFeedback": true,
         "Changelog": "更新日志",
-        "IconUrl": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/AutoHunt/Logo.png",
+        "IconUrl": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/Resource/Logo.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/AutoHunt/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/AutoHunt/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/AutoHunt/latest.zip"
@@ -36,7 +36,7 @@
             "Tools"
         ],
         "RepoUrl": "https://github.com/ToxicStar8/DalamudPlugins",
-        "IconUrl": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/Logo.png",
+        "IconUrl": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/Resource/Logo.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/BlockAnyRace/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/BlockAnyRace/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/BlockAnyRace/latest.zip",
