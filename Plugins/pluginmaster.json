@@ -3,7 +3,7 @@
         "Author": "ToxicStar",
         "Name": "AutoHunt",
         "InternalName": "AutoHunt",
-        "AssemblyVersion": "1.3.2.4",
+        "AssemblyVersion": "1.3.2.5",
         "Description": "用卫月实现自动狩猎。",
         "Punchline": "用卫月实现自动狩猎。",
         "ApplicableVersion": "any",
@@ -27,7 +27,7 @@
     {
         "Author": "ToxicStar",
         "Name": "BlockAnyRace",
-        "AssemblyVersion": "1.0.1.3",
+        "AssemblyVersion": "1.0.1.4",
         "Punchline": "屏蔽掉任何你不想看到的种族和玩家，除了你队友和好友！",
         "Description": "屏蔽掉任何你不想看到的种族和玩家，除了你队友和好友！",
         "InternalName": "BlockAnyRace",
