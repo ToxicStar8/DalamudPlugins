@@ -2,7 +2,7 @@
   "Author": "ToxicStar",
   "Name": "BlockAnyRace",
   "InternalName": "BlockAnyRace",
-  "AssemblyVersion": "1.0.2.0",
+  "AssemblyVersion": "1.0.2.1",
   "Description": "屏蔽掉任何你不想看到的种族和玩家，除了你队友和好友！",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/ToxicStar8/BlockAnyRace",
