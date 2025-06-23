@@ -27,7 +27,7 @@
     {
         "Author": "ToxicStar",
         "Name": "BlockAnyRace",
-        "AssemblyVersion": "1.0.2.1",
+        "AssemblyVersion": "1.0.3.0",
         "Punchline": "屏蔽掉任何你不想看到的种族和玩家，除了你队友和好友！",
         "Description": "屏蔽掉任何你不想看到的种族和玩家，除了你队友和好友！",
         "InternalName": "BlockAnyRace",
@@ -41,7 +41,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/BlockAnyRace/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/BlockAnyRace/latest.zip",
         "Changelog": "",
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
