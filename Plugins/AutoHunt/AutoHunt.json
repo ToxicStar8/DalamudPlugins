@@ -2,7 +2,7 @@
   "Author": "ToxicStar",
   "Name": "AutoHunt",
   "InternalName": "AutoHunt",
-  "AssemblyVersion": "1.4.2.0",
+  "AssemblyVersion": "1.4.3.0",
   "Description": "用卫月实现自动狩猎。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/ToxicStar8/DalamudPlugins",
@@ -10,7 +10,7 @@
     "Tools",
     "Hunt"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
