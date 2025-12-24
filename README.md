@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/pluginm
 | 名称      | 作者      | 版本 | 适配游戏版本 | 备注 |
 |----------|----------|----------|----------|----------|
 | AutoHunt | [ToxicStar](https://github.com/ToxicStar8)  | 1.4.3.0 | 7.4 | 按部就班的前往S怪出现的地方|
-| [BlockAnyRace](https://github.com/ToxicStar8/BlockAnyRace) | [ToxicStar](https://github.com/ToxicStar8)  | 1.0.5.0 | 7.4 | 屏蔽任何你不想看到的种族性别 |
+| [BlockAnyRace](https://github.com/ToxicStar8/BlockAnyRace) | [ToxicStar](https://github.com/ToxicStar8)  | 1.0.5.1 | 7.4 | 屏蔽任何你不想看到的种族性别 |
 
 ## AutoHunt
 使用多方插件，解析聊天框中的内容，像脚本一样按部就班的执行，实现跨服、换图、切线、导航的操作，以达成接近全自动狩猎的目的。</br>

@@ -27,7 +27,7 @@
     {
         "Author": "ToxicStar",
         "Name": "BlockAnyRace",
-        "AssemblyVersion": "1.0.5.0",
+        "AssemblyVersion": "1.0.5.1",
         "Punchline": "屏蔽掉任何你不想看到的种族和玩家，除了你队友和好友！",
         "Description": "屏蔽掉任何你不想看到的种族和玩家，除了你队友和好友！",
         "InternalName": "BlockAnyRace",
