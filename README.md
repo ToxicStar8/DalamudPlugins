@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/pluginm
 4. 切换到队列分页，勾选自动按照队列进行狩猎，即可在任何位置第一时间前往监听到的`S怪`的现场。
 
 ##### TODO
-- [ ] 导航落点添加随机性
+- [x] 导航落点添加随机性
 - [ ] 重构狩猎怪信息采集
 - [ ] 适配多语言
 - [ ] 减少插件依赖
