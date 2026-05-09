@@ -53,7 +53,7 @@
         "Name": "GlamourCollection",
         "InternalName": "GlamourCollection",
         "AssemblyVersion": "0.0.0.2",
-        "Description": "仿制幻化手册，用于追踪当前角色缺少的幻化装备。",
+        "Description": "简易的仿制幻化手册，用于追踪当前角色缺少的幻化装备。",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/ToxicStar8/GlamourCollection",
         "Tags": [
@@ -65,7 +65,7 @@
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/Resource/GlamourCollection_Logo.png",
-        "Punchline": "仿制幻化手册，用于追踪当前角色缺少的幻化装备。",
+        "Punchline": "简易的仿制幻化手册，用于追踪当前角色缺少的幻化装备。",
         "Changelog": "",
         "AcceptsFeedback": true
     }
