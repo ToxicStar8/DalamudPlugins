@@ -12,20 +12,8 @@ https://raw.githubusercontent.com/ToxicStar8/DalamudPlugins/main/Plugins/pluginm
 | [BlockAnyRace](https://github.com/ToxicStar8/BlockAnyRace) | [ToxicStar](https://github.com/ToxicStar8)  | 1.0.6.3 | 7.5 | 屏蔽任何你不想看到的种族性别 |
 | [GlamourCollection](https://github.com/ToxicStar8/GlamourCollection) | [ToxicStar](https://github.com/ToxicStar8)  | 0.0.0.3 | 7.5 | 简易的仿制幻化手册 |
 
-## AutoHunt
-使用多方插件，解析聊天框中的内容，像脚本一样按部就班的执行，实现跨服、换图、切线、导航的操作，以达成接近全自动狩猎的目的。</br>
-使用说明：
-1. 安装`Sonar`、`TeleporterPlugin`、`Lifestream`、`Vnavmesh`。
-2. 打开`Sonar`的S怪聊天框`Echo`的生成与击杀提示。
-3. 在设置中勾选需要监听的`S怪`。
-4. 切换到队列分页，勾选自动按照队列进行狩猎，即可在任何位置第一时间前往监听到的`S怪`的现场。
-
-##### TODO
-- [x] 导航落点添加随机性
-- [ ] 重构狩猎怪信息采集
-- [ ] 适配多语言
-- [ ] 减少插件依赖
-- [ ] 更多可配置项
+#### AutoHunt
+使用本插件即表示您同意插件采集必要的角色相关信息，用于身份验证和功能校验。
 
 ## 关于
 [Discord](https://discord.gg/GWMEY9P9BX)
