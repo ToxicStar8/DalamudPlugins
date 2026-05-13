@@ -2,7 +2,7 @@
   "Author": "ToxicStar",
   "Name": "GlamourCollection",
   "InternalName": "GlamourCollection",
-  "AssemblyVersion": "0.0.0.3",
+  "AssemblyVersion": "0.0.0.4",
   "Description": "简易的仿制幻化手册，用于追踪当前角色缺少的幻化装备。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/ToxicStar8/GlamourCollection",
